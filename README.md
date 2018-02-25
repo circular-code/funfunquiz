@@ -1,4 +1,4 @@
-# funfunquiz
+# funfunquiz // Setup Finished, Work in Progress
 Quiz App powered by hackable Json data of users of funfunforum.com
 
 To participate, edit your `hackable_json` to include a `quiz` field with categories like `javascript` and `css` and questions, like so:
@@ -37,7 +37,7 @@ To participate, edit your `hackable_json` to include a `quiz` field with categor
 }
 ```
 
-The app is hosted here: https://chemicalrocketeer.github.io/funfunmentorship/
+The app is hosted here: WIP
 
 ## Contributing
 Feel free to open up a PR if you want to help feel free to participate.
